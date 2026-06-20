@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Yeah-yeah, suspiro en tu cuello
+> El ritmo late lento, no hay destello
+> Tu piel me llama, no puedo fingir
+> Esta noche es nuestra, déjame sentir
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
