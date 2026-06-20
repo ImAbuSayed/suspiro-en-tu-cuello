@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/suspiro-en-tu-cuello/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Suspiro en tu cuello](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/suspiro-en-tu-cuello/) |
+| **Get License** | [Commercial Licensing for Suspiro en tu cuello](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/suspiro-en-tu-cuello/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Yeah-yeah, suspiro en tu cuello
+> El ritmo late lento, no hay destello
+> Tu piel me llama, no puedo fingir
+> Esta noche es nuestra, déjame sentir
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `96f371674d6af0c0e1e8e0c892ce0802ad809db35388ba67f502b010d7b1a0c4` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

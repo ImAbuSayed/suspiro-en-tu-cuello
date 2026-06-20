@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Suspiro en tu cuello
+
+This log tracks the cryptographic history and versioning for the song **Suspiro en tu cuello** (suspiro-en-tu-cuello).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T09:24:14.387974 | `v1` | `96f371674d6af0c0e1e8e0c892ce0802ad809db35388ba67f502b010d7b1a0c4` | `0825b83b10850e30ba4656bb90c9654225286d402a009200215573d61c254ee2` | `2026-06-20_suspiro-en-tu-cuello-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
